@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/
+/Budget Manager/task/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Getting submaps/out/
+/Topics/The Map interface/Getting submaps/out/production/classes/
+/Topics/The Map interface/Kidnapper of Ice cream/out/
+/Topics/The Map interface/Kidnapper of Ice cream/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Tricky sub-maps/out/
+/Topics/The Map interface/Tricky sub-maps/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Hyperskills.Budget_Manager-task-build-classes-java.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task-build-test-results.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task-build-tmp.main" target="11" />
+      <module name="Hyperskills.Budget_Manager-task.main" target="11" />
+      <module name="Hyperskills.Topics-Hiding_and_overriding-Publications.main" target="11" />
+      <module name="Hyperskills.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
+      <module name="Hyperskills.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Displaying_pairs.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Hyperskills.Topics-The_Map_interface-Tricky_sub-maps.main" target="11" />
+      <module name="Hyperskills.Topics-The_Set_interface-Output_elements.main" target="11" />
+      <module name="Hyperskills.Topics-The_Set_interface-Removing_elements.main" target="11" />
+      <module name="Hyperskills.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Hyperskills.Topics-Throwing_exceptions-Days_of_the_week.main" target="11" />
+      <module name="Hyperskills.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Hyperskills.Topics-Throwing_exceptions-Throw_a_checked_exception.main" target="11" />
+      <module name="Hyperskills.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Hyperskills.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="11" />
+      <module name="Hyperskills.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
