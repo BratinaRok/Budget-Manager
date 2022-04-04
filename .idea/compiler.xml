@@ -12,6 +12,11 @@
       <module name="Hyperskills.Topics-Hiding_and_overriding-Publications.main" target="11" />
       <module name="Hyperskills.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
       <module name="Hyperskills.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Hyperskills.Topics-Switch_expression-Days_of_the_week.main" target="11" />
+      <module name="Hyperskills.Topics-Switch_expression-Making_it_compile.main" target="11" />
+      <module name="Hyperskills.Topics-Switch_expression-Meteorological_seasons.main" target="11" />
+      <module name="Hyperskills.Topics-Switch_expression-Months_of_the_year.main" target="11" />
+      <module name="Hyperskills.Topics-Switch_expression-Theory.main" target="11" />
       <module name="Hyperskills.Topics-The_Map_interface-Counting_words.main" target="11" />
       <module name="Hyperskills.Topics-The_Map_interface-Creating_a_map.main" target="11" />
       <module name="Hyperskills.Topics-The_Map_interface-Displaying_pairs.main" target="11" />
